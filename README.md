@@ -16,8 +16,10 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, desarrollador frontend oriundo de
 - NextJS
 - Responsive/Mobile Implementación
 - RESTFULL Service/Api
-- Visual Studio Code
-- Estudiante universitario
+- NodeJS
+- NestJS
+- PostgreSQL
+- Docker
 
 <strong>Mis proyectos 🛠</strong>
 
