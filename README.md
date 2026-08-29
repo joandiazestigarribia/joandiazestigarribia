@@ -1,5 +1,4 @@
 # Hola, soy Joan 👋
-`// escribiendo código`
 
 [LinkedIn](https://www.linkedin.com/in/joan-ignacio-diaz-estigarribia/) · [X](https://x.com/joandefined) · [CV](https://github.com/joandiazestigarribia/portfolio-2026/blob/main/public/cv-joan-diaz-estigarribia.pdf)
 
